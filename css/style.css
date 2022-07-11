@@ -1,1 +1,32 @@
- 
+.Imagen{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+   text-align: center;
+}
+
+.Cita{
+    font-size: 15px;
+}
+
+.Tiempo{font-weight: bold;}
+
+body{background: red;}
+
+.Pie{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+}
+
+.Contenedor{
+    display: flex;
+    flex-direction: column-reverse;
+}
